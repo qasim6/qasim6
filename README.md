@@ -1,7 +1,7 @@
 • 👋 Hi, I’m @qasim6          
-• 👀 I’m interested in developing games with unity & much more.
-• 🌱 I’m currently Building My Skills Off Unity Game Development,Graphic Designing & much more.
-• 📫 Reach me at mqasimnasirg@gmail.com
+• 👀 I’m interested in developing games with unity & much more.          
+• 🌱 I’m currently Building My Skills Off Unity Game Development,Graphic Designing & much more.          
+• 📫 Reach me at mqasimnasirg@gmail.com          
 
 <!--
 **qasim6/qasim6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
